@@ -4,3 +4,11 @@
 body {
     font-family: "Roboto", sans-serif;
 }
+
+.package-color {
+    color: #231d4f;
+}
+
+.package-btn-color {
+    background-color: #dfb1cf;
+}
