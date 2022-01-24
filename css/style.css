@@ -5,25 +5,42 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+.carousel-item {
+    height: 37rem;
+    background: #000;
+}
+
+.carousel-item img {
+    height: 100%;
+    opacity: 0.5;
+}
+
+
+/* package text color  */
+
 .package-color {
     color: #231d4f;
 }
+
+
+/* package btn color  */
 
 .package-btn-color {
     background-color: #8614f8;
 }
 
+
+/* Primary color  */
+
 .planner-text-color {
     color: #8614f8;
 }
 
-.rasel {
-    object-fit: cover;
-}
 
+/* 
 #header-image {
     height: 500px;
-}
+} */
 
 
 /* 
