@@ -21,6 +21,10 @@ body {
     object-fit: cover;
 }
 
+#header-image {
+    height: 500px;
+}
+
 
 /* .section-height {
     min-height: 100vh;
