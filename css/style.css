@@ -15,40 +15,14 @@ body {
     opacity: 0.5;
 }
 
-
-/* package text color  */
-
 .package-color {
     color: #231d4f;
 }
-
-
-/* package btn color  */
 
 .package-btn-color {
     background-color: #8614f8;
 }
 
-
-/* Primary color  */
-
 .planner-text-color {
     color: #8614f8;
 }
-
-
-/* 
-#header-image {
-    height: 500px;
-} */
-
-
-/* 
-.img-custom-class {
-    width: 100%;
-} */
-
-
-/* .section-height {
-    min-height: 100vh;
-} */
