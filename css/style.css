@@ -16,3 +16,12 @@ body {
 .planner-text-color {
     color: #8614f8;
 }
+
+.rasel {
+    object-fit: cover;
+}
+
+
+/* .section-height {
+    min-height: 100vh;
+} */
